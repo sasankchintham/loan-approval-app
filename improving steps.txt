@@ -1,0 +1,7 @@
+Step	Action	Why
+1️⃣	Tune hyperparameters	Balance bias & variance
+2️⃣	Handle imbalance	Improve recall & fairness
+3️⃣	Add engineered features	More patterns to learn
+4️⃣	Prune (limit depth)	Prevent overfitting
+5️⃣	Use cross-validation	Reliable accuracy check
+6️⃣	Drop noisy features	Simplify decision boundaries
